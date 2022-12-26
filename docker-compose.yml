@@ -3,9 +3,9 @@ services:
   worker:
     build: .
     environment:
-      - API_HASH=${API_HASH}
-      - API_KEY=${API_KEY}
-      - BOT_TOKEN=${BOT_TOKEN}
-      - WORKERS=${WORKERS}
-      - CHANNEL_URL=${CHANNEL_URL}
-      - BOT_URL=${BOT_URL}
+      - API_HASH=${c980f4e4e23f03cca2a66ad3d5b3e1c9}
+      - API_KEY=${22179434}
+      - BOT_TOKEN=${c980f4e4e23f03cca2a66ad3d5b3e1c9}
+      - WORKERS=${4}
+      - CHANNEL_URL=${http://t.me/DankTikTokBot}
+      - BOT_URL=${DankTikTokBot}
